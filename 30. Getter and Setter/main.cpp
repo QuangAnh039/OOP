@@ -1,0 +1,1 @@
+// getter va setter để truy cập tới dữ liệu private để dùng để đẩm bảo tính đóng gói
