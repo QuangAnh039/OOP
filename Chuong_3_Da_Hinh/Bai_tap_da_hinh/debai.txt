@@ -1,0 +1,13 @@
+- Bài toán: Công ty ABC. Có nhiều nhân viên làm việc trong 3 bộ phận khác nhau: bộ phận quản lý, bộ phận sản xuất, bộ phận văn phòng
+Việc tính lương cho nhân viên dựa vào các yếu tố sau:
+	+ Đối với nhân viên văn phòng: Lương = Lương cơ bản + số ngày làm việc * 100.000 + trợ cấp
+	+ Đối với nhân viên sản xuất: Lương = Lương cơ bản + số sản phẩm * 2000
+	+ Đối với nhân viên quản lý: lương = lương cơ bản * hệ số chức vụ + thưởng
+	
+- Ngoài ra công ty cầ quản lý thông tin về nhân viên như họtenm ngày sinh và các thông số trên để tính lương
+- Yêu cầu: thiết kế các lớp thích hợp để thực hiện các yêu cằu sau:
+	+ Nhập thông tin của nhân viên để phục vụ cho việc tính lương
+	+ Thực hiện việc tính lương cho từng nhân viên
+	+ Xuất thông tin của các nhân viên
+	+ Tính tổng lương của công ty
+	+ Tìm kiếm một nhân viên theo họ tên

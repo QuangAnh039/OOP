@@ -1,0 +1,2 @@
+- Tính đa hình xuất hiện khi có sự kế thừa giữa các lớp
+- Có những phương thức tổng quát cho mọi lớp dẫm xuất nên  
